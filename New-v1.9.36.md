@@ -1,11 +1,10 @@
 {
-"Title": "⭐️ فرصت طلایی ⭐️",
-"Description": "
-با پول یه بستنی یه فیلترشکن نامحدود بگیر ، با ضمانت تیم ما 😍 فقط 17 هزارتومن با کلی لوکیشن همزمان ، اول رایگان تستش کن 👇🏻👇🏻👇🏻 ",
-"Link": "https://t.me/GreenNetwoorkBot?start=free_dg_sh_27may",
-"ColorWave": "#64DD17",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://join?invite=JmzSgW7i1kQ5YzM8",
+"ColorWave": "#FFFF00",
 "Color": "#FFFF00",
-"ColorWaveTwo": "#76FF03",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -16,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
-"MessageID": "29871153004",
-"ShowTime": "5",
-"Button": "دریافت تست رایگان",
-"ButtonCancell": " نمیخوام ",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
